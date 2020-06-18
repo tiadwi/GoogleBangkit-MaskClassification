@@ -8,9 +8,9 @@ Train-Validation set contains two labels: <br />
 - Mask
 - No Mask
 ## Credit
-by: <br />
+Presented in 2020, by: <br />
 - [Mochammad Randy Caesario Harsuko](https://github.com/mrch-hub) 
-- [Muhamad Naufal Azwar Iftikar]
+- [Muhamad Naufal Azwar Iftikar](https://github.com/mnaufalazwar)
 - [Darien Yoga Adi Prawira](https://github.com/darien-yoga)
 - [Tia Dwi Setiani](https://github.com/tiadwi)
 
