@@ -27,7 +27,7 @@ The dataset is pre-conditioned (already separated into folders based on its clas
 ## Baseline Model
 [Mask_NoMask_Classification.ipynb](https://github.com/tiadwi/GoogleBangkit-MaskClassification/blob/master/Mask_NoMask_Classification.ipynb) is the baseline model. <br />
 For the baseline model, we use Convolutional Neural Network with combination of convolutional, pooling, and dense layers, specified as follows: <br />
-```
+```python
 model = tf.keras.models.Sequential([
     tf.keras.layers.Conv2D(16, (3,3), activation='relu', input_shape=(150, 150, 3)),
     tf.keras.layers.MaxPooling2D(2,2),
